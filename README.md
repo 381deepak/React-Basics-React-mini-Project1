@@ -21,3 +21,10 @@ input#fontSizeInput will have default value of 10 and input#paddingInput will ha
 Note:- All of the above 3 inputs, value will be passed as props to <code>Preview</code> component and add 'px' to value wherever necessary.
 
 After these 3 inputs are defined, add the <code>Preview</code> after the div containing inputs.
+<video src="https://d3dyfaf3iutrxo.cloudfront.net/general/upload/d370a33a943b42948ff9c284e3c3bf27.mp4" controls="" autoplay="" muted="">
+<br>
+<br><h3>Acceptance Criteria </h3>
+<br><ol>
+<br>  <li>All three inputs, with correct ids should be present</li>
+<br>  <li>On changing any of the input, change should reflect in <code>Preview</code>  component</li>
+<br></ol></video>
